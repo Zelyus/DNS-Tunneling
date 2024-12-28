@@ -1,0 +1,7 @@
+ZamanDamgasi,Protokol,Kaynak_IP,Hedef_IP,KimlikNo,DNS_Turu,DNS_Bilgisi,DNS_CevapUzunlugu
+15:10:48.463662,UDP,8.8.8.8,104.18.8.175,12,A,104.18.8.175,12
+15:10:48.628662,UDP,8.8.8.8,,12,AAAA,Received,12
+15:10:48.658660,UDP,8.8.8.8,,12,MX,Received,12
+15:10:48.688660,UDP,8.8.8.8,,12,TXT,Received,12
+15:10:48.717662,UDP,8.8.8.8,,12,NS,Received,12
+15:10:48.746661,UDP,8.8.8.8,,12,CNAME,Received,12

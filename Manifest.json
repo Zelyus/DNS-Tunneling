@@ -1,0 +1,15 @@
+{
+  "manifest_version": 3,
+  "name": "Tunneling Detector",
+  "version": "1.0",
+  "permissions": [
+    "activeTab"
+  ],
+  "action": {
+    "default_popup": "popup.html",
+    "default_icon": "icon16.png"
+  },
+  "background": {
+    "service_worker": "background.js"
+  }
+}
